@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+  
+
+@font-face {
+  font-family: "PixelifySans";
+  src: url('./fonts/PixelifySans-Regular.ttf') format('truetype');
+}
+
+*{
+  font-family: "PixelifySans";
+}
